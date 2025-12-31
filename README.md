@@ -43,6 +43,6 @@
         Semoga tahun ini penuh kebahagiaan, kesehatan, dan cinta yang tak terbatas!
     </p>
     <div class="heart">❤️</div>
-    <p>Dari: [Nama Kamu]</p>
+    <p>Dari: [MUHAMMAD HIKARI AUFA ROFIQI]</p>
 </body>
 </html>
